@@ -1,7 +1,6 @@
 {
-  "name": "syncline",
+  "name": "syncline-app",
   "version": "1.0.0",
-  "description": "Async standups for remote engineering teams",
   "scripts": {
     "start": "node server.js"
   },
